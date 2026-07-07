@@ -16,6 +16,7 @@ The system automates customer support by classifying customer queries, routing t
   - Technical Support
   - Billing Support
   - Account Support
+  - General Support
 - ✅ Retrieval-Augmented Generation (RAG)
 - ✅ FAISS Vector Database
 - ✅ SQLite Conversation Memory
